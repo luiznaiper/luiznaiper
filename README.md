@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luiznaiper, a Web Developer
 - 👀 I’m interested in Frontend Development, React and JS technologies
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning NEXT JS
 - 💞️ I’m looking to collaborate on Web Design projects and coding
 - 📫 How to reach me: luisolivarez.dev
 
